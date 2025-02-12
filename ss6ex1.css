@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container .title{
+    background-color: hsl(211, 100%, 50%);
+    color: white;
+    padding: 24px;
+}
+.container .end{
+    background-color: hsl(0, 0%, 95%);
+    padding: 24px;
+}
+.container .content{
+    margin-left: 300px;
+}
